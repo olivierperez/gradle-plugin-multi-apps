@@ -1,0 +1,41 @@
+{
+  "comment": "Pokemons data - names.json",
+  "data": [
+    {
+      "name": "Pipiks",
+      "hp": "954",
+      "attack": "12",
+      "defense": "58"
+    },
+    {
+      "name": "Delphes99",
+      "hp": "215",
+      "attack": "87",
+      "defense": "30"
+    },
+    {
+      "name": "Ekliptrix",
+      "hp": "113",
+      "attack": "53",
+      "defense": "23"
+    },
+    {
+      "name": "mitden",
+      "hp": "252",
+      "attack": "87",
+      "defense": "0"
+    },
+    {
+      "name": "GravenTV",
+      "hp": "50",
+      "attack": "150",
+      "defense": "63"
+    },
+    {
+      "name": "Illiouchine",
+      "hp": "625",
+      "attack": "13",
+      "defense": "98"
+    }
+  ]
+}

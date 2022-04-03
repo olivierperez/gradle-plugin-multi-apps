@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <style name="CardView.Charmander" parent="Widget.MaterialComponents.CardView">
+        <item name="materialThemeOverlay">@style/ThemeOverlay.App.Card</item>
+        <item name="shapeAppearance">@style/ShapeAppearance.App.MediumComponent</item>
+    </style>
+
+    <style name="ThemeOverlay.App.Card" parent="">
+        <item name="colorSurface">@color/charmanderBrownDark</item>
+        <item name="colorOnSurface">@color/charmanderYellow</item>
+
+        <item name="android:textColor">@color/charmanderYellow</item>
+    </style>
+
+    <style name="ShapeAppearance.App.MediumComponent" parent="ShapeAppearance.MaterialComponents.MediumComponent">
+        <item name="cornerFamily">cut</item>
+        <item name="cornerSize">8dp</item>
+    </style>
+
+    <style name="BottomNavBarStyle.Charmander" parent="Widget.MaterialComponents.BottomNavigationView.Colored">
+        <item name="materialThemeOverlay">@style/ThemeOverlay.Charmander.BottomNavigationView</item>
+    </style>
+
+    <style name="ThemeOverlay.Charmander.BottomNavigationView" parent="">
+        <item name="colorPrimary">@color/charmanderBrown</item>
+        <item name="colorOnPrimary">@color/charmanderYellow</item>
+    </style>
+</resources>

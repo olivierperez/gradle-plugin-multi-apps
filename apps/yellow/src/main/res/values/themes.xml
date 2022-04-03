@@ -1,0 +1,20 @@
+<resources>
+    <style name="Theme.Pokedex.Pikachu">
+        <item name="cardViewStyle">@style/CardView.Pikachu</item>
+        <item name="materialCardViewStyle">@style/CardView.Pikachu</item>
+        <item name="bottomNavigationStyle">@style/BottomNavBarStyle.Pikachu</item>
+
+        <item name="colorAccent">@color/pikachuRed</item>
+        <item name="colorPrimary">@color/pikachuGrayDark</item>
+        <item name="android:navigationBarColor">@color/pikachuGrayDark</item>
+        <item name="android:statusBarColor">@color/pikachuGrayDark</item>
+
+        <item name="colorControlHighlight">@color/pikachuRed</item>
+        <item name="android:colorBackground">@color/pikachuYellowDark</item>
+    </style>
+
+    <style name="Theme.Pokedex.Pikachu.NoActionBar">
+        <item name="windowActionBar">false</item>
+        <item name="windowNoTitle">true</item>
+    </style>
+</resources>

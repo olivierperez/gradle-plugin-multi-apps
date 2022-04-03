@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="primaryColor">#7b1fa2</color>
+    <color name="primaryLightColor">#ae52d4</color>
+    <color name="primaryDarkColor">#4a0072</color>
+    <color name="secondaryColor">#F13F37</color>
+    <color name="secondaryLightColor">#5f5fc4</color>
+    <color name="primaryTextColor">#E19821</color>
+
+    <color name="pikachuRed">#812108</color>
+    <color name="pikachuBlack">#010000</color>
+    <color name="pikachuGray">#3C3937</color>
+    <color name="pikachuGrayDark">#201E1D</color>
+    <color name="pikachuYellow">#E19821</color>
+    <color name="pikachuYellowDark">#A26C16</color>
+</resources>

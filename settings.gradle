@@ -1,0 +1,9 @@
+rootProject.name = "Pokedex"
+
+include ':yellow', ':red'
+project(':yellow').projectDir = file("apps/yellow")
+project(':red').projectDir = file("apps/red")
+
+include ':lib'
+
+includeBuild 'gradle-plugin-configurator'

@@ -1,0 +1,11 @@
+apply plugin: "fr.o80.plugin.configurator"
+
+pokeApp {
+    namespace.set("fr.o80.pokedex.yellow")
+    applicationId.set("fr.o80.pokedex.yellow")
+}
+
+dependencies {
+    implementation project(":lib")
+    implementation 'com.google.android.material:material:1.5.0'
+}

@@ -1,0 +1,20 @@
+<resources>
+    <style name="Theme.Pokedex.Charmander">
+        <item name="cardViewStyle">@style/CardView.Charmander</item>
+        <item name="materialCardViewStyle">@style/CardView.Charmander</item>
+        <item name="bottomNavigationStyle">@style/BottomNavBarStyle.Charmander</item>
+
+        <item name="colorAccent">@color/charmanderOrange</item>
+        <item name="colorPrimary">@color/charmanderBrown</item>
+        <item name="android:navigationBarColor">@color/charmanderBrown</item>
+        <item name="android:statusBarColor">@color/charmanderBrown</item>
+
+        <item name="colorControlHighlight">@color/charmanderBrown</item>
+        <item name="android:colorBackground">@color/charmanderYellow</item>
+    </style>
+
+    <style name="Theme.Pokedex.Charmander.NoActionBar">
+        <item name="windowActionBar">false</item>
+        <item name="windowNoTitle">true</item>
+    </style>
+</resources>

@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name" />
+
+    <!-- Screens -->
+    <string name="about_screen">About</string>
+    <string name="home_screen">Home</string>
+    <string name="search_screen">Search</string>
+
+    <!-- Pokemon info -->
+    <string name="pokemon_pokeball">Pokeball</string>
+    <string name="pokemon_name">Name</string>
+    <string name="pokemon_name_display">%1$s [%2$d]</string>
+    <string name="pokemon_hp">HP</string>
+    <string name="pokemon_attack">Attack</string>
+    <string name="pokemon_defense">Defense</string>
+
+    <!-- Search -->
+    <string name="pokemon_name_hint">Pokemon name</string>
+    <string name="search_description">Search</string>
+</resources>
